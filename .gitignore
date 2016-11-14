@@ -1,0 +1,10 @@
+*.log
+*.pot
+*.pyc
+*.sql3
+.DS_Store
+.idea/*
+*.mo
+settings.*.local.py
+requirements.*.local.txt
+project/media/*
